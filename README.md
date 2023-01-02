@@ -8,4 +8,4 @@ choose your
 
 then we describe the model and play with the values ​​so that the model correctly draws the squares
 
-for cv to work correctly, install a later version
+for cv to work correctly, install a later version.
